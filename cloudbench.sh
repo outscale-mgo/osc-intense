@@ -10,12 +10,12 @@ print()
     has_ponysay=$?
 
     if [ $has_ponysay -eq 0 ]; then
-        ponysay  $1
+        ponysay "$@"
     elif [ $has_cowsay -eq 255 ]; then
-        echo $1 | cowsay -d
+        echo "$@" | cowsay -d
     else
         tput setaf 1
-        echo $1
+        echo "$@"
         tput sgr0
     fi
 }
