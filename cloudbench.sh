@@ -1,7 +1,7 @@
 #!/bin/bash
 
 
-print()
+stress()
 {
     cowsay -h &> /dev/null
     has_cowsay=$?
@@ -22,235 +22,235 @@ print()
 
 
 
-print benchmark Outscale Instances; sleep 1
-print benchmark Outscale VPC; sleep 1
-print benchmark Outscale Security; sleep 1
-print benchmark Outscale ReadRegions; sleep 1
-print benchmark Outscale Images; sleep 1
-print benchmark Outscale Volume; sleep 1
-print benchmark Outscale Cofee; sleep 1
-print benchmark Outscale I use Arch BTW; sleep 1
-print benchmark Outscale Instances; sleep 1
-print benchmark Outscale VPC; sleep 1
-print benchmark Outscale Security; sleep 1
-print benchmark Outscale ReadRegions; sleep 1
-print benchmark Outscale Images; sleep 1
-print benchmark Outscale Volume; sleep 1
-print benchmark Outscale Cofee; sleep 1
-print benchmark Outscale I use Arch BTW; sleep 1
-print benchmark Outscale Instances; sleep 1
-print benchmark Outscale VPC; sleep 1
-print benchmark Outscale Security; sleep 1
-print benchmark Outscale ReadRegions; sleep 1
-print benchmark Outscale Images; sleep 1
-print benchmark Outscale Volume; sleep 1
-print benchmark Outscale Cofee; sleep 1
-print benchmark Outscale I use Arch BTW; sleep 1
-print benchmark Outscale Instances; sleep 1
-print benchmark Outscale VPC; sleep 1
-print benchmark Outscale Security; sleep 1
-print benchmark Outscale ReadRegions; sleep 1
-print benchmark Outscale Images; sleep 1
-print benchmark Outscale Volume; sleep 1
-print benchmark Outscale Cofee; sleep 1
-print benchmark Outscale I use Arch BTW; sleep 1
-print benchmark Outscale Instances; sleep 1
-print benchmark Outscale VPC; sleep 1
-print benchmark Outscale Security; sleep 1
-print benchmark Outscale ReadRegions; sleep 1
-print benchmark Outscale Images; sleep 1
-print benchmark Outscale Volume; sleep 1
-print benchmark Outscale Cofee; sleep 1
-print benchmark Outscale I use Arch BTW; sleep 1
-print benchmark Outscale Instances; sleep 1
-print benchmark Outscale VPC; sleep 1
-print benchmark Outscale Security; sleep 1
-print benchmark Outscale ReadRegions; sleep 1
-print benchmark Outscale Images; sleep 1
-print benchmark Outscale Volume; sleep 1
-print benchmark Outscale Cofee; sleep 1
-print benchmark Outscale I use Arch BTW; sleep 1
-print benchmark Outscale Instances; sleep 1
-print benchmark Outscale VPC; sleep 1
-print benchmark Outscale Security; sleep 1
-print benchmark Outscale ReadRegions; sleep 1
-print benchmark Outscale Images; sleep 1
-print benchmark Outscale Volume; sleep 1
-print benchmark Outscale Cofee; sleep 1
-print benchmark Outscale I use Arch BTW; sleep 1
-print benchmark Outscale Instances; sleep 1
-print benchmark Outscale VPC; sleep 1
-print benchmark Outscale Security; sleep 1
-print benchmark Outscale ReadRegions; sleep 1
-print benchmark Outscale Images; sleep 1
-print benchmark Outscale Volume; sleep 1
-print benchmark Outscale Cofee; sleep 1
-print benchmark Outscale I use Arch BTW; sleep 1
-print benchmark Outscale Instances; sleep 1
-print benchmark Outscale VPC; sleep 1
-print benchmark Outscale Security; sleep 1
-print benchmark Outscale ReadRegions; sleep 1
-print benchmark Outscale Images; sleep 1
-print benchmark Outscale Volume; sleep 1
-print benchmark Outscale Cofee; sleep 1
-print benchmark Outscale I use Arch BTW; sleep 1
-print benchmark Outscale Instances; sleep 1
-print benchmark Outscale VPC; sleep 1
-print benchmark Outscale Security; sleep 1
-print benchmark Outscale ReadRegions; sleep 1
-print benchmark Outscale Images; sleep 1
-print benchmark Outscale Volume; sleep 1
-print benchmark Outscale Cofee; sleep 1
-print benchmark Outscale I use Arch BTW; sleep 1
-print benchmark Outscale Instances; sleep 1
-print benchmark Outscale VPC; sleep 1
-print benchmark Outscale Security; sleep 1
-print benchmark Outscale ReadRegions; sleep 1
-print benchmark Outscale Images; sleep 1
-print benchmark Outscale Volume; sleep 1
-print benchmark Outscale Cofee; sleep 1
-print benchmark Outscale I use Arch BTW; sleep 1
-print benchmark Outscale Instances; sleep 1
-print benchmark Outscale VPC; sleep 1
-print benchmark Outscale Security; sleep 1
-print benchmark Outscale ReadRegions; sleep 1
-print benchmark Outscale Images; sleep 1
-print benchmark Outscale Volume; sleep 1
-print benchmark Outscale Cofee; sleep 1
-print benchmark Outscale I use Arch BTW; sleep 1
-print benchmark Outscale Instances; sleep 1
-print benchmark Outscale VPC; sleep 1
-print benchmark Outscale Security; sleep 1
-print benchmark Outscale ReadRegions; sleep 1
-print benchmark Outscale Images; sleep 1
-print benchmark Outscale Volume; sleep 1
-print benchmark Outscale Cofee; sleep 1
-print benchmark Outscale I use Arch BTW; sleep 1
-print benchmark Outscale Instances; sleep 1
-print benchmark Outscale VPC; sleep 1
-print benchmark Outscale Security; sleep 1
-print benchmark Outscale ReadRegions; sleep 1
-print benchmark Outscale Images; sleep 1
-print benchmark Outscale Volume; sleep 1
-print benchmark Outscale Cofee; sleep 1
-print benchmark Outscale I use Arch BTW; sleep 1
-print benchmark Outscale Instances; sleep 1
-print benchmark Outscale VPC; sleep 1
-print benchmark Outscale Security; sleep 1
-print benchmark Outscale ReadRegions; sleep 1
-print benchmark Outscale Images; sleep 1
-print benchmark Outscale Volume; sleep 1
-print benchmark Outscale Cofee; sleep 1
-print benchmark Outscale I use Arch BTW; sleep 1
-print benchmark Outscale Instances; sleep 1
-print benchmark Outscale VPC; sleep 1
-print benchmark Outscale Security; sleep 1
-print benchmark Outscale ReadRegions; sleep 1
-print benchmark Outscale Images; sleep 1
-print benchmark Outscale Volume; sleep 1
-print benchmark Outscale Cofee; sleep 1
-print benchmark Outscale I use Arch BTW; sleep 1
-print benchmark Outscale Instances; sleep 1
-print benchmark Outscale VPC; sleep 1
-print benchmark Outscale Security; sleep 1
-print benchmark Outscale ReadRegions; sleep 1
-print benchmark Outscale Images; sleep 1
-print benchmark Outscale Volume; sleep 1
-print benchmark Outscale Cofee; sleep 1
-print benchmark Outscale I use Arch BTW; sleep 1
-print benchmark Outscale Instances; sleep 1
-print benchmark Outscale VPC; sleep 1
-print benchmark Outscale Security; sleep 1
-print benchmark Outscale ReadRegions; sleep 1
-print benchmark Outscale Images; sleep 1
-print benchmark Outscale Volume; sleep 1
-print benchmark Outscale Cofee; sleep 1
-print benchmark Outscale I use Arch BTW; sleep 1
-print benchmark Outscale Instances; sleep 1
-print benchmark Outscale VPC; sleep 1
-print benchmark Outscale Security; sleep 1
-print benchmark Outscale ReadRegions; sleep 1
-print benchmark Outscale Images; sleep 1
-print benchmark Outscale Volume; sleep 1
-print benchmark Outscale Cofee; sleep 1
-print benchmark Outscale I use Arch BTW; sleep 1
-print benchmark Outscale Instances; sleep 1
-print benchmark Outscale VPC; sleep 1
-print benchmark Outscale Security; sleep 1
-print benchmark Outscale ReadRegions; sleep 1
-print benchmark Outscale Images; sleep 1
-print benchmark Outscale Volume; sleep 1
-print benchmark Outscale Cofee; sleep 1
-print benchmark Outscale I use Arch BTW; sleep 1
-print benchmark Outscale Instances; sleep 1
-print benchmark Outscale VPC; sleep 1
-print benchmark Outscale Security; sleep 1
-print benchmark Outscale ReadRegions; sleep 1
-print benchmark Outscale Images; sleep 1
-print benchmark Outscale Volume; sleep 1
-print benchmark Outscale Cofee; sleep 1
-print benchmark Outscale I use Arch BTW; sleep 1
-print benchmark Outscale Instances; sleep 1
-print benchmark Outscale VPC; sleep 1
-print benchmark Outscale Security; sleep 1
-print benchmark Outscale ReadRegions; sleep 1
-print benchmark Outscale Images; sleep 1
-print benchmark Outscale Volume; sleep 1
-print benchmark Outscale Cofee; sleep 1
-print benchmark Outscale I use Arch BTW; sleep 1
-print benchmark Outscale Instances; sleep 1
-print benchmark Outscale VPC; sleep 1
-print benchmark Outscale Security; sleep 1
-print benchmark Outscale ReadRegions; sleep 1
-print benchmark Outscale Images; sleep 1
-print benchmark Outscale Volume; sleep 1
-print benchmark Outscale Cofee; sleep 1
-print benchmark Outscale I use Arch BTW; sleep 1
-print benchmark Outscale Instances; sleep 1
-print benchmark Outscale VPC; sleep 1
-print benchmark Outscale Security; sleep 1
-print benchmark Outscale ReadRegions; sleep 1
-print benchmark Outscale Images; sleep 1
-print benchmark Outscale Volume; sleep 1
-print benchmark Outscale Cofee; sleep 1
-print benchmark Outscale I use Arch BTW; sleep 1
-print benchmark Outscale Instances; sleep 1
-print benchmark Outscale VPC; sleep 1
-print benchmark Outscale Security; sleep 1
-print benchmark Outscale ReadRegions; sleep 1
-print benchmark Outscale Images; sleep 1
-print benchmark Outscale Volume; sleep 1
-print benchmark Outscale Cofee; sleep 1
-print benchmark Outscale I use Arch BTW; sleep 1
-print benchmark Outscale Instances; sleep 1
-print benchmark Outscale VPC; sleep 1
-print benchmark Outscale Security; sleep 1
-print benchmark Outscale ReadRegions; sleep 1
-print benchmark Outscale Images; sleep 1
-print benchmark Outscale Volume; sleep 1
-print benchmark Outscale Cofee; sleep 1
-print benchmark Outscale I use Arch BTW; sleep 1
-print benchmark Outscale Instances; sleep 1
-print benchmark Outscale VPC; sleep 1
-print benchmark Outscale Security; sleep 1
-print benchmark Outscale ReadRegions; sleep 1
-print benchmark Outscale Images; sleep 1
-print benchmark Outscale Volume; sleep 1
-print benchmark Outscale Cofee; sleep 1
-print benchmark Outscale I use Arch BTW; sleep 1
-print benchmark Outscale Instances; sleep 1
-print benchmark Outscale VPC; sleep 1
-print benchmark Outscale Security; sleep 1
-print benchmark Outscale ReadRegions; sleep 1
-print benchmark Outscale Images; sleep 1
-print benchmark Outscale Volume; sleep 1
-print benchmark Outscale Cofee; sleep 1
-print benchmark Outscale I use Arch BTW; sleep 1
-print benchmark Outscale Instances; sleep 1
-print benchmark Outscale VPC; sleep 1
-print benchmark Outscale Security; sleep 1
-print benchmark Outscale ReadRegions; sleep 1
-print benchmark Outscale Images; sleep 1
-print benchmark Outscale Volume; sleep 1
-print benchmark Outscale Cofee; sleep 1
-print benchmark Outscale I use Arch BTW; sleep 1
+stress benchmark Outscale Instances; sleep 1
+stress benchmark Outscale VPC; sleep 1
+stress benchmark Outscale Security; sleep 1
+stress benchmark Outscale ReadRegions; sleep 1
+stress benchmark Outscale Images; sleep 1
+stress benchmark Outscale Volume; sleep 1
+stress benchmark Outscale Cofee; sleep 1
+stress benchmark Outscale I use Arch BTW; sleep 1
+stress benchmark Outscale Instances; sleep 1
+stress benchmark Outscale VPC; sleep 1
+stress benchmark Outscale Security; sleep 1
+stress benchmark Outscale ReadRegions; sleep 1
+stress benchmark Outscale Images; sleep 1
+stress benchmark Outscale Volume; sleep 1
+stress benchmark Outscale Cofee; sleep 1
+stress benchmark Outscale I use Arch BTW; sleep 1
+stress benchmark Outscale Instances; sleep 1
+stress benchmark Outscale VPC; sleep 1
+stress benchmark Outscale Security; sleep 1
+stress benchmark Outscale ReadRegions; sleep 1
+stress benchmark Outscale Images; sleep 1
+stress benchmark Outscale Volume; sleep 1
+stress benchmark Outscale Cofee; sleep 1
+stress benchmark Outscale I use Arch BTW; sleep 1
+stress benchmark Outscale Instances; sleep 1
+stress benchmark Outscale VPC; sleep 1
+stress benchmark Outscale Security; sleep 1
+stress benchmark Outscale ReadRegions; sleep 1
+stress benchmark Outscale Images; sleep 1
+stress benchmark Outscale Volume; sleep 1
+stress benchmark Outscale Cofee; sleep 1
+stress benchmark Outscale I use Arch BTW; sleep 1
+stress benchmark Outscale Instances; sleep 1
+stress benchmark Outscale VPC; sleep 1
+stress benchmark Outscale Security; sleep 1
+stress benchmark Outscale ReadRegions; sleep 1
+stress benchmark Outscale Images; sleep 1
+stress benchmark Outscale Volume; sleep 1
+stress benchmark Outscale Cofee; sleep 1
+stress benchmark Outscale I use Arch BTW; sleep 1
+stress benchmark Outscale Instances; sleep 1
+stress benchmark Outscale VPC; sleep 1
+stress benchmark Outscale Security; sleep 1
+stress benchmark Outscale ReadRegions; sleep 1
+stress benchmark Outscale Images; sleep 1
+stress benchmark Outscale Volume; sleep 1
+stress benchmark Outscale Cofee; sleep 1
+stress benchmark Outscale I use Arch BTW; sleep 1
+stress benchmark Outscale Instances; sleep 1
+stress benchmark Outscale VPC; sleep 1
+stress benchmark Outscale Security; sleep 1
+stress benchmark Outscale ReadRegions; sleep 1
+stress benchmark Outscale Images; sleep 1
+stress benchmark Outscale Volume; sleep 1
+stress benchmark Outscale Cofee; sleep 1
+stress benchmark Outscale I use Arch BTW; sleep 1
+stress benchmark Outscale Instances; sleep 1
+stress benchmark Outscale VPC; sleep 1
+stress benchmark Outscale Security; sleep 1
+stress benchmark Outscale ReadRegions; sleep 1
+stress benchmark Outscale Images; sleep 1
+stress benchmark Outscale Volume; sleep 1
+stress benchmark Outscale Cofee; sleep 1
+stress benchmark Outscale I use Arch BTW; sleep 1
+stress benchmark Outscale Instances; sleep 1
+stress benchmark Outscale VPC; sleep 1
+stress benchmark Outscale Security; sleep 1
+stress benchmark Outscale ReadRegions; sleep 1
+stress benchmark Outscale Images; sleep 1
+stress benchmark Outscale Volume; sleep 1
+stress benchmark Outscale Cofee; sleep 1
+stress benchmark Outscale I use Arch BTW; sleep 1
+stress benchmark Outscale Instances; sleep 1
+stress benchmark Outscale VPC; sleep 1
+stress benchmark Outscale Security; sleep 1
+stress benchmark Outscale ReadRegions; sleep 1
+stress benchmark Outscale Images; sleep 1
+stress benchmark Outscale Volume; sleep 1
+stress benchmark Outscale Cofee; sleep 1
+stress benchmark Outscale I use Arch BTW; sleep 1
+stress benchmark Outscale Instances; sleep 1
+stress benchmark Outscale VPC; sleep 1
+stress benchmark Outscale Security; sleep 1
+stress benchmark Outscale ReadRegions; sleep 1
+stress benchmark Outscale Images; sleep 1
+stress benchmark Outscale Volume; sleep 1
+stress benchmark Outscale Cofee; sleep 1
+stress benchmark Outscale I use Arch BTW; sleep 1
+stress benchmark Outscale Instances; sleep 1
+stress benchmark Outscale VPC; sleep 1
+stress benchmark Outscale Security; sleep 1
+stress benchmark Outscale ReadRegions; sleep 1
+stress benchmark Outscale Images; sleep 1
+stress benchmark Outscale Volume; sleep 1
+stress benchmark Outscale Cofee; sleep 1
+stress benchmark Outscale I use Arch BTW; sleep 1
+stress benchmark Outscale Instances; sleep 1
+stress benchmark Outscale VPC; sleep 1
+stress benchmark Outscale Security; sleep 1
+stress benchmark Outscale ReadRegions; sleep 1
+stress benchmark Outscale Images; sleep 1
+stress benchmark Outscale Volume; sleep 1
+stress benchmark Outscale Cofee; sleep 1
+stress benchmark Outscale I use Arch BTW; sleep 1
+stress benchmark Outscale Instances; sleep 1
+stress benchmark Outscale VPC; sleep 1
+stress benchmark Outscale Security; sleep 1
+stress benchmark Outscale ReadRegions; sleep 1
+stress benchmark Outscale Images; sleep 1
+stress benchmark Outscale Volume; sleep 1
+stress benchmark Outscale Cofee; sleep 1
+stress benchmark Outscale I use Arch BTW; sleep 1
+stress benchmark Outscale Instances; sleep 1
+stress benchmark Outscale VPC; sleep 1
+stress benchmark Outscale Security; sleep 1
+stress benchmark Outscale ReadRegions; sleep 1
+stress benchmark Outscale Images; sleep 1
+stress benchmark Outscale Volume; sleep 1
+stress benchmark Outscale Cofee; sleep 1
+stress benchmark Outscale I use Arch BTW; sleep 1
+stress benchmark Outscale Instances; sleep 1
+stress benchmark Outscale VPC; sleep 1
+stress benchmark Outscale Security; sleep 1
+stress benchmark Outscale ReadRegions; sleep 1
+stress benchmark Outscale Images; sleep 1
+stress benchmark Outscale Volume; sleep 1
+stress benchmark Outscale Cofee; sleep 1
+stress benchmark Outscale I use Arch BTW; sleep 1
+stress benchmark Outscale Instances; sleep 1
+stress benchmark Outscale VPC; sleep 1
+stress benchmark Outscale Security; sleep 1
+stress benchmark Outscale ReadRegions; sleep 1
+stress benchmark Outscale Images; sleep 1
+stress benchmark Outscale Volume; sleep 1
+stress benchmark Outscale Cofee; sleep 1
+stress benchmark Outscale I use Arch BTW; sleep 1
+stress benchmark Outscale Instances; sleep 1
+stress benchmark Outscale VPC; sleep 1
+stress benchmark Outscale Security; sleep 1
+stress benchmark Outscale ReadRegions; sleep 1
+stress benchmark Outscale Images; sleep 1
+stress benchmark Outscale Volume; sleep 1
+stress benchmark Outscale Cofee; sleep 1
+stress benchmark Outscale I use Arch BTW; sleep 1
+stress benchmark Outscale Instances; sleep 1
+stress benchmark Outscale VPC; sleep 1
+stress benchmark Outscale Security; sleep 1
+stress benchmark Outscale ReadRegions; sleep 1
+stress benchmark Outscale Images; sleep 1
+stress benchmark Outscale Volume; sleep 1
+stress benchmark Outscale Cofee; sleep 1
+stress benchmark Outscale I use Arch BTW; sleep 1
+stress benchmark Outscale Instances; sleep 1
+stress benchmark Outscale VPC; sleep 1
+stress benchmark Outscale Security; sleep 1
+stress benchmark Outscale ReadRegions; sleep 1
+stress benchmark Outscale Images; sleep 1
+stress benchmark Outscale Volume; sleep 1
+stress benchmark Outscale Cofee; sleep 1
+stress benchmark Outscale I use Arch BTW; sleep 1
+stress benchmark Outscale Instances; sleep 1
+stress benchmark Outscale VPC; sleep 1
+stress benchmark Outscale Security; sleep 1
+stress benchmark Outscale ReadRegions; sleep 1
+stress benchmark Outscale Images; sleep 1
+stress benchmark Outscale Volume; sleep 1
+stress benchmark Outscale Cofee; sleep 1
+stress benchmark Outscale I use Arch BTW; sleep 1
+stress benchmark Outscale Instances; sleep 1
+stress benchmark Outscale VPC; sleep 1
+stress benchmark Outscale Security; sleep 1
+stress benchmark Outscale ReadRegions; sleep 1
+stress benchmark Outscale Images; sleep 1
+stress benchmark Outscale Volume; sleep 1
+stress benchmark Outscale Cofee; sleep 1
+stress benchmark Outscale I use Arch BTW; sleep 1
+stress benchmark Outscale Instances; sleep 1
+stress benchmark Outscale VPC; sleep 1
+stress benchmark Outscale Security; sleep 1
+stress benchmark Outscale ReadRegions; sleep 1
+stress benchmark Outscale Images; sleep 1
+stress benchmark Outscale Volume; sleep 1
+stress benchmark Outscale Cofee; sleep 1
+stress benchmark Outscale I use Arch BTW; sleep 1
+stress benchmark Outscale Instances; sleep 1
+stress benchmark Outscale VPC; sleep 1
+stress benchmark Outscale Security; sleep 1
+stress benchmark Outscale ReadRegions; sleep 1
+stress benchmark Outscale Images; sleep 1
+stress benchmark Outscale Volume; sleep 1
+stress benchmark Outscale Cofee; sleep 1
+stress benchmark Outscale I use Arch BTW; sleep 1
+stress benchmark Outscale Instances; sleep 1
+stress benchmark Outscale VPC; sleep 1
+stress benchmark Outscale Security; sleep 1
+stress benchmark Outscale ReadRegions; sleep 1
+stress benchmark Outscale Images; sleep 1
+stress benchmark Outscale Volume; sleep 1
+stress benchmark Outscale Cofee; sleep 1
+stress benchmark Outscale I use Arch BTW; sleep 1
+stress benchmark Outscale Instances; sleep 1
+stress benchmark Outscale VPC; sleep 1
+stress benchmark Outscale Security; sleep 1
+stress benchmark Outscale ReadRegions; sleep 1
+stress benchmark Outscale Images; sleep 1
+stress benchmark Outscale Volume; sleep 1
+stress benchmark Outscale Cofee; sleep 1
+stress benchmark Outscale I use Arch BTW; sleep 1
+stress benchmark Outscale Instances; sleep 1
+stress benchmark Outscale VPC; sleep 1
+stress benchmark Outscale Security; sleep 1
+stress benchmark Outscale ReadRegions; sleep 1
+stress benchmark Outscale Images; sleep 1
+stress benchmark Outscale Volume; sleep 1
+stress benchmark Outscale Cofee; sleep 1
+stress benchmark Outscale I use Arch BTW; sleep 1
+stress benchmark Outscale Instances; sleep 1
+stress benchmark Outscale VPC; sleep 1
+stress benchmark Outscale Security; sleep 1
+stress benchmark Outscale ReadRegions; sleep 1
+stress benchmark Outscale Images; sleep 1
+stress benchmark Outscale Volume; sleep 1
+stress benchmark Outscale Cofee; sleep 1
+stress benchmark Outscale I use Arch BTW; sleep 1
+stress benchmark Outscale Instances; sleep 1
+stress benchmark Outscale VPC; sleep 1
+stress benchmark Outscale Security; sleep 1
+stress benchmark Outscale ReadRegions; sleep 1
+stress benchmark Outscale Images; sleep 1
+stress benchmark Outscale Volume; sleep 1
+stress benchmark Outscale Cofee; sleep 1
+stress benchmark Outscale I use Arch BTW; sleep 1
